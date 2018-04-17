@@ -1,0 +1,44 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="PChistoricschoolproject.github.io" resolutions="1x" timestamp="1523987317844">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_______-a.css" crc="59822169" ref="index"/>
+    <file name="index.css" crc="4098063872" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="483509463" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u94-4.png" crc="4272147069" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u638.png" crc="4219362375" ref="index"/>
+    <file name="u638-a.png" crc="4219362375" ref="index"/>
+    <file name="u764.png" crc="3851729866" ref="index"/>
+    <file name="u764-a.png" crc="3851729866" ref="index"/>
+    <file name="u439.png" crc="3849736123" ref="index"/>
+    <file name="u439-a.png" crc="3849736123" ref="index"/>
+    <file name="u530.png" crc="3886359558" ref="index"/>
+    <file name="u530-a.png" crc="3886359558" ref="index"/>
+    <file name="u546.png" crc="3870165714" ref="index"/>
+    <file name="u546-a.png" crc="3870165714" ref="index"/>
+    <file name="u559.png" crc="3933268260" ref="index"/>
+    <file name="u559-a.png" crc="3933268260" ref="index"/>
+    <file name="бабидж.jpg" crc="105901700" seo="true" ref="index"/>
+    <file name="лебедев.jpg" crc="234197614" seo="true" ref="index"/>
+    <file name="эвм м-20.jpg" crc="4284602856" seo="true" ref="index"/>
+    <file name="транзистор2.jpg" crc="90047557" seo="true" ref="index"/>
+    <file name="схема2.jpg" crc="3952582377" seo="true" ref="index"/>
+    <file name="ibm.jpg" crc="3770785353" seo="true" ref="index"/>
+    <file name="images.jpg" crc="4103394645" seo="true" ref="index"/>
+    <file name="яблоко 1.jpg" crc="4169149246" seo="true" ref="index"/>
+    <file name="топ пк2.jpg" crc="460150697" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4004998289" seo="true" mt="1523987227477" redirect="true"/>
+</manifest>
